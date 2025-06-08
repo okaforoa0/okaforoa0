@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Rotary Encoder Shield PCB design.<br>👯 I’m looking to collaborate on IoT and embedded systems projects.<br>🤝 I’m looking for help with mastering PCB design. <br>🌱 I’m currently learning about operating systems and computer design.<br>💬 Ask me about IoT devices and software development.<br>⚡ Fun fact: I can play the guitar!
+🔭 I previously worked on a team project called 'Safe-N-Sound'.<br>👯 I’m looking to collaborate on IoT and embedded systems projects.<br>🤝 I’m looking for help with mastering PCB design. <br>🌱 I’m currently learning about operating systems and computer design.<br>💬 Ask me about IoT devices and software development.<br>⚡ Fun fact: I can play the guitar!
 
 
 ## 🌐 Socials:
