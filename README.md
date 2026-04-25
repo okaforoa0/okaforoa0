@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi, i’m ashley 👋🏾<br><br>new grad computer engineering student at the university of delaware (may 2026) with a minor in computer science<br><br>about me<br><br>i’m interested in embedded systems, firmware, and building reliable, real-world tech.<br>experience<br><br>last summer at Honeywell, i built a python cli tool that reduced debug time by ~80% across embedded devices and improved system reliability<br><br>right now<br><br>looking for full-time entry-level roles in embedded software / firmware engineering
+hi, i’m ashley 👋🏾<br><br>new grad computer engineering student at the university of delaware (may 2026) with a minor in computer science<br><br>about me<br><br>i’m interested in embedded systems, firmware, and building reliable, real-world tech.<br><br>experience<br><br>last summer at Honeywell, i built a python cli tool that reduced debug time by ~80% across embedded devices and improved system reliability<br><br>right now<br><br>looking for full-time entry-level roles in embedded software / firmware engineering
 
 
 ## 🌐 Socials:
